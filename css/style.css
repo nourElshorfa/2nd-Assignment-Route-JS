@@ -1,0 +1,19 @@
+h1 {
+    font-size: 6rem;
+    font-family: Impact,'Arial Narrow Bold', sans-serif;
+}
+
+p {
+    font-size: 2.2rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+button {
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+}
+button:hover {
+    background-color: green;
+}
